@@ -1,0 +1,2 @@
+# GEPIT
+Program ini kami beri nama GEPIT (Ge PITnes). Olahraga dapat membantu untuk Kesehatan. Olahraga juga bisa membuat orang merasa lebih kuat, lebih berenergi, dan lainnya. Salah satu tujuan yang banyak orang targetkan adalah mengurangi berat badan. Langkah utama yang harus dilakukan adalah membakar lebih banyak kalori daripada yang dikonsumsi. Maka, kita harus menghitung kalori yang dibakar agar tetap seimbang dengan kalori yang dibutuhkan. Sehingga kita membuat program penghitung kalori yang dibakar selama olahraga jogging dan bersepeda.
